@@ -1,0 +1,173 @@
+.nav-bar {
+	background-color: black;
+	font-size: 20px;
+	font-family: 'Raleway', sans-serif;
+	width: 100%;
+	height: auto;
+	padding: 10px;
+	box-sizing: border-box;
+	float: right;
+	text-align: center;
+	position: fixed;
+	z-index: 2;
+}
+
+.nav-link {
+	text-decoration: none;
+	color: white;
+}
+
+.nav-link:hover {
+	text-decoration: underline;
+}
+
+body {
+	width: 100%;
+	height: 100%;
+}
+
+p { 
+  text-shadow: 2px 2px 2px #000;
+}
+
+.main-one {
+	background: url('images/Weird.jpg');
+	background-size: 100% 100%;
+	text-align: center;
+	padding: 270px;
+}
+
+.name-div-one {
+	font-size: 60px;
+	font-family: 'Raleway', sans-serif;
+	color: white;
+	position: relative;
+	bottom: 160px;
+}
+
+.text-div-one {
+	font-size: 40px;
+	font-family: 'Raleway', sans-serif;
+	color: white;
+	position: relative;
+	bottom: 160px;
+}
+
+.main-two {
+	background: url('images/SeattleFix-3.jpg');
+	background-size: 100% 100%;
+	padding: 180px;
+	color: white;
+	text-align: center;
+	font-size: 40px;
+	font-family: 'Raleway', sans-serif;
+}
+
+.main-three {
+	background: url('images/SeattleFix-4.jpg');
+	background-size: 100% 100%;
+	padding: 290px;
+	position: relative;
+}
+
+.main-three-text {
+	color: white;
+	font-family: 'Raleway', sans-serif;
+	font-size: 45px;
+	position: relative;
+	bottom: 225px;
+	text-shadow: 2px 2x black;
+}
+
+/*.bio-pic {
+	width: 70px;
+	height: auto;
+	float: left;
+	border-radius: 50px;
+}*/
+
+.main-three-list {
+	color: white;
+	font-family: 'Raleway', sans-serif;
+	font-size: 35px;
+	position: relative;
+	bottom: 225px;
+	text-shadow: 2px 2px black;
+	list-style-type: none;
+	margin-left: 10em;
+}
+
+.lower-div-three {
+	height: 400px;
+	width: 100%;
+	background-color: white;
+	color: black;
+	bottom: 0;
+	left: 0;
+	position: absolute;
+	background: rgba(255, 255, 255, 0.5);
+}
+
+.lower-div-three-header {
+	text-align: center;
+	opacity: 1;
+	font-size: 45px;
+	color: black;
+	font-family: 'Raleway', sans-serif;
+}
+
+.project-1 {
+	color: black;
+	font-family: 'Raleway', sans-serif;
+	font-size: 35px;
+	text-align: left;
+	margin: auto;
+}
+
+.project-1-title {
+	margin-left: 2.5em;
+}
+
+.project-1-pic {
+	width: 200px;
+	height: auto;
+	margin-left: 1em;
+	border: solid 1px dimgray;
+}
+
+.project-1-pic:hover {
+	box-shadow: 0 0 15px black;		
+}
+
+.main-four {
+	width: 100%;
+	height: 500px;
+	background-color: black;
+	text-align: center;
+	color: white;
+	font-family: 'Raleway', sans-serif;
+	font-size: 45px;
+	margin: auto;
+	padding: 20px;
+	box-sizing: border-box;
+}
+
+.bottom-text-holder {
+	float: left;
+	margin-left: 4em;
+}
+.contact-text {
+	font-size: 25px;
+}
+
+.contact-pic {
+	max-width: 250px;
+	height: auto;
+	border-radius: 100%;
+	float: right;
+	margin-right: 5em;
+}
+
+.bottom-text-holder >a {
+	color: white;
+}
