@@ -31,7 +31,7 @@ p {
 }
 
 .main-one {
-	background: url('images/Weird.jpg');
+	background: url('Images/Weird.jpg');
 	background-size: 100% 100%;
 	text-align: center;
 	padding: 270px;
@@ -54,7 +54,7 @@ p {
 }
 
 .main-two {
-	background: url('images/SeattleFix-3.jpg');
+	background: url('Images/SeattleFix-3.jpg');
 	background-size: 100% 100%;
 	padding: 180px;
 	color: white;
@@ -64,7 +64,7 @@ p {
 }
 
 .main-three {
-	background: url('images/SeattleFix-4.jpg');
+	background: url('Images/SeattleFix-4.jpg');
 	background-size: 100% 100%;
 	padding: 290px;
 	position: relative;
