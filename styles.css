@@ -31,7 +31,7 @@ p {
 }
 
 .main-one {
-	background: url('Images/Weird.jpg');
+	background: url('Images/Lake-18.jpg');
 	background-size: 100% 100%;
 	text-align: center;
 	padding: 270px;
@@ -54,7 +54,7 @@ p {
 }
 
 .main-two {
-	background: url('Images/SeattleFix-3.jpg');
+	background-color: black;
 	background-size: 100% 100%;
 	padding: 180px;
 	color: white;
